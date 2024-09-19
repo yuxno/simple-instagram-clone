@@ -1,2 +1,1 @@
-"# simple-instagram-clone" 
-"# simple-instagram-clone" 
+hello! excited to share my very first mobile app project which is a simple instagram app with features such as eploading images, changing username and profile image, i had fun making this and definitly learned alot.
